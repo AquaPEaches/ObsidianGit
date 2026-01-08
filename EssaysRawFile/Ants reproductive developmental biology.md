@@ -4,7 +4,7 @@ Ants, such as all living organisms reproduce and create off springs. The excepti
 Recent studies by the [NIH.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC3130223/) shows that some ants specifically use **thelytokous parthenogenesis**  (the biological term for asexual reproduction that births only female unfertilized eggs) for new queens. 
 
 This, in turn, ensures that all the queen ant's genes are passed down to the new reproductive (queen) female caste while normal **sexual production** is used to create non-reproductive(worker) female castes. 
-
 ## Why use different reproduction systems?
-Thelytokous parthenogenesis makes it possible for the queen to be 'genetically immortal' by cloning their genes to a new diploid egg
+Thelytokous parthenogenesis makes it possible for the queen to be 'genetically immortal' by cloning their genes. This gives the ant species the most optimal chance of their genes to survive. While normal reproduction is used to maintain genetic diversity in the workforce.
 
+## Separate reproduction choice between Formicidae(ants) 
