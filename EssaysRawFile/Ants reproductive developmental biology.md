@@ -10,4 +10,4 @@ This, in turn, ensures that all the queen ant's genes are passed down to the new
 ### Thelytokous parthenogenesis etymology
 The word **Thelytokous** comes from the from Greek roots: combining *'Thelys'* meaning **'female'** and *'tokos'* meaning 'birth' or **'offspring'** and with the English suffix *'-ous'*, this means that thelytokous means female offspring. In addition to thelytokous, we combine it with the word**parthenogenesis** which comes from the Greek words *'parthenos'*, meaning **'virgin'**
 
-## Separate reproduction choice between Formicidae(ants) 
+## Separate reproduction choice between *Formicidae*(ants) 
