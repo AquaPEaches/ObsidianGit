@@ -12,5 +12,3 @@ tags: #Bussines #Leadership #Study #Self-Help #Personal-Development
 # Part 1; Paradigms and Principles:
 
 ## Inside-Out
-- The Pygmalion Effect:
-	1. 
