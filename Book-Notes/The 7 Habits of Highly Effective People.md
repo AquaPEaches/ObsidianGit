@@ -7,5 +7,5 @@ tags: #Bussines #Leadership #Study #Self-Help #Personal-Development
 
 # Stephen R. Covey
 
-![Stephen R. Covey]
+![Stephen R. Covey|284](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyzYsTmV_IZTSzcxba1KN9sSDqn46W2Pb_-XKKMo_-T6WUt7qGTpUx26k&s=10)
 # Part 1.
