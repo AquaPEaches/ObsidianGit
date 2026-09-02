@@ -7,5 +7,10 @@ tags: #Bussines #Leadership #Study #Self-Help #Personal-Development
 
 # Stephen R. Covey
 
-![Stephen R. Covey|284](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyzYsTmV_IZTSzcxba1KN9sSDqn46W2Pb_-XKKMo_-T6WUt7qGTpUx26k&s=10)
-# Part 1.
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyzYsTmV_IZTSzcxba1KN9sSDqn46W2Pb_-XKKMo_-T6WUt7qGTpUx26k&s=10" width="250" align="left" style="margin-right: 20px">Stephen R. Covey 
+
+# Part 1; Paradigms and Principles:
+
+## Inside-Out
+- The Pygmalion Effect:
+	1. 
