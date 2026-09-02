@@ -26,7 +26,7 @@ Which is why this quote is important. One who can express their suffering, is no
 
 Montaigne brings forth examples of how we have a certain amount of tolerance to pain before we collapse. Be it physical, psychological or emotional. 
 
-He brings forth stories where fathers and mothers keep their composure even as they lose their lose wars, become captives of their enemies, or even lose their children and or loved ones. Not showing a shred of emotion in their face or composure. But these same men and women, who have faced countless horrors and beared them so couragously, completely crumble when news of their maid getting captured is given or falling in grief for one of their courtiers passing away. 
+He tells stories where fathers and mothers keep their composure as they lose wars, become captives of their enemies,or even lose their children and or loved ones, not showing a shred of emotion in their face or composure. But these same men and women, who have faced countless horrors and beared them so couragously, completely crumble when news of their maid getting captured is given or falling in a deep state of grief for one of their courtiers passing away. 
 
-It is not that the events that happened before were insignifcant. They were so signifcant infact, that the culmination of all that grief gave opportunity of even the smallest of inconveniences to completely breakdown a person.
+It is not that the events that happened before were insignifcant. They were so signifcant infact, that the culmination of all that grief gave opportunity of even the smallest of inconveniences to completely breakdown their stoic like composure.
 
