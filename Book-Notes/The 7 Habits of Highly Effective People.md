@@ -12,3 +12,4 @@ tags: #Bussines #Leadership #Study #Self-Help #Personal-Development
 # Part 1; Paradigms and Principles:
 
 ## Inside-Out
+Starts out with a quote of David Starr Jordan. "There is no real excellence in all this world which can be separated from right living." To put it in lay man terms, exellence can't be achieved by someone who is fundamentally bad, dishonest or unhealthy.
