@@ -8,7 +8,7 @@ tags: #French-Renaissance #Literature #Study
 
 **Michel Eyquem de Montaigne** was a French philospher, writer and politician during the French Renaissance. He primarily studied humanity and by extension, himself. 
 
-**Pioneer** of the ==Essays==. He wrote until his final breath. Due to his improper style of writing, which delved into personal anecdotes and personal ruminations, it was seen as detrimental to the proper style, rather than innovation. His most know quote was "What do I know?"
+**Pioneer** of the <mark>Essays</mark>. He wrote until his final breath. Due to his improper style of writing, which delved into personal anecdotes and personal ruminations, it was seen as detrimental to the proper style, rather than innovation. His most know quote was "What do I know?"
 
 *Born in 1533 and passed away in 1592*
 
